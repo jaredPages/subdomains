@@ -1,0 +1,14 @@
+{
+  "name": "subdomains",
+  "version": "1.0.0",
+  "description": "Free subdomains for everyone.",
+  "main": "subdomains.json",
+  "scripts": {
+    "sort": "npx sort-json subdomains.json"
+  },
+  "author": "Fauqi Amar Hizbullah",
+  "license": "MIT",
+  "dependencies": {
+    "sort-json": "^2.0.1"
+  }
+}
